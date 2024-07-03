@@ -1,0 +1,30 @@
+# Compiled binary executables
+bin/
+
+# Output directory for built files
+build/
+
+# Dependency directories
+vendor/
+go.sum
+
+# Environment configuration file
+.env
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Exclude any sensitive or confidential information like credentials
+# Add your specific config file if needed
+config.yaml
+
